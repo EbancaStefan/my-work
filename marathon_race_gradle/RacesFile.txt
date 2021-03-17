@@ -1,0 +1,7 @@
+6
+0;Cursa Mare;adults;21.12.2022;300
+1;Cursa Mica;kids;20.12.2022;10
+2;TeensRace;Teens;23.12.2022;150
+3;Batrani;seniors;25.12.2022;50
+4;nume;teens;12.12.2022;123
+5;race1;teens;12.12.2023;1000
