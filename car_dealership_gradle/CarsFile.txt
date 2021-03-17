@@ -1,0 +1,8 @@
+28
+2;dacia;1300;10;1970;NotReserved
+4;Dacia;Duster;250;2014;NotReserved
+7;Audi;A8;300;2009;NotReserved
+10;Dacia;MCV;300;2017;NotReserved
+11;Ford;Focus;100;2008;NotReserved
+12;12;Car;123;1989;Reserved
+25;brand2;model2;150;1989;NotReserved
