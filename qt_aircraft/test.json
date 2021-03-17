@@ -1,0 +1,26 @@
+{
+    "aircrafts": [
+        {
+            "id": "1",
+            "isPrivate": "true",
+            "model": "model1",
+            "suitableFor": [
+                "military",
+                "medical emergencies",
+                "public transportation",
+                "leisure time"
+            ],
+            "type": "helicopter"
+        },
+        {
+            "id": "1",
+            "model": "model2",
+            "suitableFor": [
+                "leisure time"
+            ],
+            "type": "hot air ballon",
+            "weightLimit": 20
+        }
+    ],
+    "numAircrafts": 2
+}
